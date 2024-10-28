@@ -4,7 +4,6 @@ import requests
 url = "https://tools.kinds.or.kr/search/news"
 headers = {"Content-Type": "application/json"}
 
-api_key = "fc8c1ff2-1626-4123-a2c5-f73c64509f18"
 
 payload = {
     "access_key": api_key,  # API 키를 여기에 입력
